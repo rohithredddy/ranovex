@@ -26,11 +26,12 @@ const Navigation = () => {
           
           
           <Link to="/" className="flex items-center space-x-2">
-            <img
-              src="../public/ranovex-logo.png"
-              alt="Ranovex Logo"
-              className="w-8 h-8 object-contain"
-            />
+          <img
+  src="/ranovex-logo.png"
+  alt="Ranovex Logo"
+  className="w-8 h-8 object-contain"
+/>
+
             <span className="text-xl font-bold">Ranovex</span>
           </Link>
 

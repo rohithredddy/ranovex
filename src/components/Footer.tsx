@@ -20,7 +20,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <img
-                src="public/ranovex-logo.png"
+                src="../public/ranovex-logo.png"
                 alt="Ranovex Logo"
                 className="w-8 h-8 object-contain"
               />
